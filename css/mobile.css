@@ -28,7 +28,7 @@
     grid-template-columns: 1fr;
     grid-column: 1;
 }
-@media(max-widht: 600px){
+@media(max-width: 600px){
     #showcase .showcase-container,
     #home-articles .articles-container,
     #main-footer .footer-container {
